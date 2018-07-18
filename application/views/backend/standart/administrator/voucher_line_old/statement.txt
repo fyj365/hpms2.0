@@ -1,0 +1,1 @@
+<input type="text" class="form-control" name="BATCH_DATE"  value="<?= date("Y-m-d"); ?>" id="BATCH_DATE" disabled>
