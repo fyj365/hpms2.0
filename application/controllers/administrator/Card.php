@@ -9,7 +9,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 *| Business Partner site
 *| 
 */
-class card extends Admin	
+class Card extends Admin	
 {
 	
 	public function __construct()
