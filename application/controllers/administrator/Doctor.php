@@ -24,6 +24,12 @@ class Doctor extends Admin
 	*
 	* @var $offset String
 	*/
+
+	public function argument(){
+		var a =0;
+		return;
+	}
+
 	public function index($offset = 0)
 	{
 		$this->is_allowed('doctor_list');
